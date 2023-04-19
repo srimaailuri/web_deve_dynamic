@@ -1,0 +1,38 @@
+.page-color {
+    background-color: #86d2f2;
+}
+
+.traffic-light-head {
+    font-weight: bold;
+    padding: 10px;
+}
+
+.light-button {
+    background-color: #1f1d41;
+    color: white;
+    border-radius: 10px;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+
+
+.traffic-signal-bg-color {
+    background-color: #1f1d41;
+    border-radius: 45px;
+    height: 290px;
+    width: 100px;
+    margin: 10px;
+}
+
+.signal-clr {
+    background-color: #4b5069;
+    border-radius: 45px;
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+    margin-bottom: 29px;
+    margin: 26px;
+}
